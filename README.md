@@ -1,4 +1,4 @@
-# Nice Astro Starter using Tailwindcss
+# Nicer Astro Starter using Tailwindcss
 
 Astro and Tailwindcss starter. it comes with the path for fonts, colors, and typography to facilitate the addition of your style guide. Tailwind plugins have been added: Forms, Typography, Line-clamp...
 
